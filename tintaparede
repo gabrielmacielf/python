@@ -1,0 +1,6 @@
+larg = float(input('Digite a largura da parede em m: '))
+alt = float(input("Digite a altura da parede em m: "))
+area = larg*alt
+x = area/2
+print('Area da parede: {}m²'.format(area))
+print('Considerando que 1L de tinta pinta uma area de 2m²,você precisará de {} litros de tinta.'.format(x))
