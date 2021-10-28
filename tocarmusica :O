@@ -3,3 +3,7 @@ pygame.init()
 pygame.mixer.music.load('rhcp.mp3')
 pygame.mixer.music.play()
 parar = input('Digite para parar')
+
+
+
+#salvar um arquivo .mp3 (no caso) e colar no projeto para poder buscar posteriormente
