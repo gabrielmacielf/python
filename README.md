@@ -1,2 +1,2 @@
 # python
-Exercícios para praticar Python
+Exercícios básicos para iniciar aprendizado em Python
