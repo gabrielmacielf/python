@@ -1,0 +1,16 @@
+msg='\033[1;30;41mOlá, Mundo!\033[m'
+print(msg)
+
+
+
+
+#\033[style;type;backm
+#\033[0;33;44m
+
+
+#style: 0 none , 1 negrito, 4 sublinhado, 7 negativado
+
+#type: 30 branco, 31 vermelho, 32 verde, 33 amarelo, 34 azul, 35 roxo, 36 azul claro, 37 cinza
+#outras opções precisa adicionar biblioteca
+
+#back: 40 fundo branco, 41 fundo vermelho, 42 f verde, 43 f amarelo, 44 f azul, 45 f roxo, 46 f azul claro, 47 f cinza
